@@ -5,6 +5,7 @@ function App() {
     <>
     <Chai/>
    <h1>Exploring React using Vite in Summers, by Somil</h1>
+   <h2>Hello checking commits.</h2>
    </>
   )
 }
